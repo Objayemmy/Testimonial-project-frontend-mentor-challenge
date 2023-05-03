@@ -1,0 +1,274 @@
+.first {
+    width: 600px;
+    height: 300px;
+    background-color: rgb(161, 87, 245);
+    border-radius: 20px;
+    background-image: url(bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position: 80% 0px;
+    display: inline-block;
+    float: left;
+    margin-right: 25px;
+}
+.purple {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.dan-image {
+    border-radius: 100px;
+    margin-top: 15px;
+    float: left;
+}
+
+.dan-name {
+    display: inline-block;
+    width: 120px;
+    height: 40px;
+    float: left;
+    margin: 20px;
+}
+
+.daniel {
+    position: relative;
+    margin: 0;
+    color: white;
+}
+.dan-ver {
+    position: relative;
+    margin: 0;
+    color: white;
+    font-size: small;
+}
+.dan-header {
+    margin-top: 10px;
+    color: white;
+    font-size: 20px;
+    display: inline-block;
+}
+.dan-bottom {
+    font-size: small;
+    display: inline-block;
+    margin: 0;
+    color: white;
+}
+
+.second {
+    width: 280px;
+    height: 300px;
+    background-color: rgb(83, 86, 109);
+    border-radius: 10px;
+    display: inline-block;
+    float: left;
+    margin-right: 25px;
+}
+.ash {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.jon-image {
+    float: left;
+    border-radius: 100px;
+    margin-top: 0px;
+}
+.jonathan {
+    position: relative;
+    margin: 0;
+    color: white;
+}
+
+.jon-name {
+    display: inline-block;
+    width: 140px;
+    height: 40px;
+    float: left;
+    margin-top: 5px;
+    margin-left: 12px;
+}
+
+.jon-ver {
+    position: relative;
+    margin: 0;
+    color: white;
+    font-size: small;
+}
+.jon-header {
+    margin-top: 10px;
+    color: white;
+    font-size: 20px;
+    display: inline-block;
+}
+.jon-bottom {
+    font-size: small;
+    display: inline-block;
+    margin: 0;
+    color: white;
+}
+    
+.third {
+    width: 280px;
+    height: 300px;
+    background-color: rgb(218, 218, 218);
+    border-radius: 10px;
+    display: inline-flex;
+    float: left;
+    margin: 20px 25px 0 0;
+}
+
+.white {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.jea-image {
+    float: left;
+    border-radius: 100px;
+    margin-top: 20px;
+}
+
+.jea-name {
+    display: inline-block;
+    width: 140px;
+    height: 40px;
+    float: left;
+    margin-left: 12px;
+    margin-top: 25px;
+}
+
+.jeanette {
+    position: relative;
+    margin: 0;
+    color: rgb(63, 60, 60);
+}
+.jea-ver {
+    position: relative;
+    margin: 0;
+    color: rgb(63, 60, 60);
+    font-size: small;
+}
+.jea-header {
+    margin-top: 10px;
+    color:rgb(63, 60, 60);
+    font-size: 22px;
+    font-weight: bold;
+    display: inline-block;
+}
+.jea-bottom {
+    font-size: small;
+    display: inline-block;
+    margin: 0;
+    color:rgb(63, 60, 60);
+}
+
+.four {
+    width: 600px;
+    height: 300px;
+    background-color: rgb(39, 39, 46);
+    border-radius: 20px;
+    display: inline-block;
+    float: left;
+    margin: 20px 25px 0 0;
+}
+.pale {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.pat-image {
+    border-radius: 100px;
+    margin-top: 20px;
+    float: left;
+}
+
+.pat-name {
+    display: inline-block;
+    width: 120px;
+    height: 40px;
+    float: left;
+    margin-top: 25px;
+    margin-left: 20px;
+}
+
+.patrick {
+    position: relative;
+    float: right;
+    margin: 0;
+    color: white;
+}
+.pat-ver {
+    position: relative;
+    float: right;
+    margin: 0;
+    color: white;
+}
+.pat-header {
+    margin-top: 30px;
+    color: white;
+    font-size: 16px;
+    display: inline-block;
+}
+.pat-bottom {
+    font-size: small;
+    display: inline-block;
+    margin: 0;
+    margin-top: 15px;
+    color: white;
+}
+
+.five {
+    width: 250px;
+    height: 623px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    display: inline-block;
+    float: right;
+    margin-right: 15px;
+}
+
+.whiteee {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.kira-image {
+    border-radius: 100px;
+    margin-top: 20px;
+    float: left;
+}   
+
+.kira-name {
+    display: inline-block;
+    width: 100px;
+    height: 40px;
+    float: left;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+
+.kira {
+    position: relative;
+    color: rgb(39, 39, 46); 
+    margin: 0;
+}
+
+.kira-ver {
+    position: relative;
+    color: rgb(39, 39, 46);
+    font-size: small;
+    margin: 0;
+}
+.kira-header {
+    margin-top: 10px;
+    color: rgb(39, 39, 46);
+    font-size: 18px;
+    font-weight: bold;
+    display: inline-block;
+}
+.kira-bottom {
+    font-size: small;
+    display: inline-block;
+    margin: 0;
+    color:rgb(39, 39, 46);
+}
+.altogether {
+    width: 90%;
+    height: 500px;
+    margin: auto;
+    margin-top: 40px;
+}
